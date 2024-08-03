@@ -72,4 +72,6 @@ body {
 .hidden {
   display: none;
 }
-Footer
+h6 {
+margin-bottom: 0px;
+}
